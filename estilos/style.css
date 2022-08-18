@@ -73,7 +73,7 @@ nav > a {
     color: white;
     padding: 10px;
     text-decoration: none;
-    font-family: var(--fonte-android);
+    font-family: var(--fonte-destaque);
     font-weight:normal;
     font-size: 1em;
     border-radius: 3px;
